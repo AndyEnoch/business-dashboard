@@ -1,5 +1,4 @@
-import mongoose from 'mongoose';
-
+import mongoose from "mongoose";
 
 const UserSchema = new mongoose.Schema(
   {
@@ -13,7 +12,7 @@ const UserSchema = new mongoose.Schema(
       type: String,
       required: true,
       max: 50,
-      unique: true
+      unique: true,
     },
     password: {
       type: String,
@@ -29,8 +28,8 @@ const UserSchema = new mongoose.Schema(
     role: {
       type: String,
       enum: ["user", "admin", "superadmin"],
-      default: "admin"
-    }
+      default: "admin",
+    },
   },
   { timestamps: true }
 );

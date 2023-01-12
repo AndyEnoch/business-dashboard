@@ -29,3 +29,19 @@ C
 server/.env,7/4/74c0224311d9cb9feca55cc2c27a2b847c0286e7
 A
 client/.env.local,3/d/3d12c3835a2c8c2aca628f2629252ba30123d051
+E
+server/models/User.js,7/2/72308f7010b2f585b62772eb555a4d5c68c90e6b
+X
+(client/src/scenes/transactions/index.jsx,b/2/b23ba018218f2dad0fc110c5d0276748e84d98ba
+?
+server/index.js,e/1/e1a504bc36c43a5b06e18911fe39381356468d7f
+G
+server/routes/client.js,d/b/db5b153decd1f673f2361e336e2cc6dc8c455321
+L
+server/controllers/client.js,e/c/ecad4af0f0064e98847511b3139f33f1abc1d7de
+L
+server/models/Transaction.js,5/6/566798e2df67f54c76867200b1357f207ea77f67
+A
+client/src/App.js,f/6/f6b8a135eb07bb80aa582994bcf1a8ccacd783ee
+G
+client/src/state/api.js,6/e/6e0df1df436b8f2f2c8787df659aa01d0a598b1d

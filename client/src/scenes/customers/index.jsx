@@ -48,7 +48,6 @@ const columns = [
 const Customers = () => {
   const theme =  useTheme();
   const { data, isLoading } = useGetCustomersQuery();
-  console.log(data)
   return (
     <Box m="1rem 2rem">
       <Header title="CUSTOMERS" subtitle="List of Customers" />

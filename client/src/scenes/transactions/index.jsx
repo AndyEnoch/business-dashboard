@@ -53,7 +53,6 @@ const Transactions = () => {
     search,
   });
 
-  console.log(data);
   return (
     <Box m="1rem 2rem">
       <Header title="TRANSACTIONS" subtitle="Entire list of transactions" />
